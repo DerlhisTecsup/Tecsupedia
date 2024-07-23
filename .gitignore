@@ -1,0 +1,88 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django specific
+*.log
+*.pot
+*.pyc
+*.pyo
+*.db
+*.sqlite3
+
+# Local environment
+.env
+*.local
+
+# If using a custom settings file
+settings_local.py
+
+# If using SQLite3 database files
+db.sqlite3
+
+# Django static and media files
+/static/
+/media/
+
+# Backup files
+*.bak
+*.swp
+*.swo
+
+# Test coverage reports
+htmlcov/
+
+# Logs
+*.log
+*.out
+*.err
+
+# Caches
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# If using the coverage package to generate coverage reports
+.coverage
+.coverage.*
+
+# Pyre type checker
+.pyre/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# VSCode specific
+.vscode/
+.vscode/settings.json
+
+# MacOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# PyCharm specific
+.idea/
+
+# Pycharm and JetBrains specific
+*.iml
+.idea/
+*.iws
+*.ipr
+.idea/
+
+# Virtual Environment
+venv/
+ENV/
+env/
+ENV.bak/
+venv.bak/
