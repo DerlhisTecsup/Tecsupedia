@@ -83,8 +83,8 @@ DATABASES = {
         'NAME': 'tecsupediadb',
         'USER': 'userdb',
         'PASSWORD': '@2024',
-        'HOST': 'localhost',
-        'PORT': '',
+        'HOST': '34.95.131.147',
+        'PORT': '5432',
     }
 }
 
